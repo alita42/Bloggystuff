@@ -14,3 +14,13 @@ color: grey;
 font-family: Times;
 text-align: center;
 }
+ h3 {
+ 	font-family: Verdana;
+ 	text-align: center;
+ 	color: grey;
+ }
+ul { 
+	font-family: Verdana;
+	text-align: center;
+	color: pink;
+}
