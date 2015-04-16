@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  }
+h1 {
+	font-family: Times;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: white;
+}
+p {
+color: grey;
+font-family: Times;
+text-align: center;
+}
